@@ -8,7 +8,7 @@ public class Forca {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-
+		System.out.println("Test");
 		System.out.println("                  JOGO DA FORCA");
 
 		System.out.print("Digite uma palavra: ");
